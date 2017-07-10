@@ -1,0 +1,4 @@
+Eric	Sean	Littlewood
+Morphometrics	Geomorph	Toxicology_tox
+shape_1_1	curve1	left
+shape_1_1	curve2	right
